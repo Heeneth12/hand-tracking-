@@ -9,4 +9,4 @@ The aim of the work is to implement a program code of an application
 for a computer with a digital camera, which provides image transmission
 and hand gesture recognition
 The created program can be improved in terms of the quality of the model 
-and the number of recognized gestures
+
